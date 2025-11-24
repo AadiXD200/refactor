@@ -1,0 +1,14 @@
+e83eb38 Task 6: tidy checkstyle and finalize log
+d0893e2 Task 5: support history and pastoral plays
+5398cd3 Task 4.3: finalize polymorphic calculators
+b2fbe48 Task 4.2: delegate calculations through calculators
+b73c91d Task 4.1: introduce performance calculators
+3b7f601 Task 3.2: add HTML statement output
+99bc6e5 Task 3.1: split calculation and rendering
+e1d49f3 Task 2.4: extract totals
+6efde88 Task 2.3: refactor currency formatting
+9a4ee58 Task 2.2: extract volume credits
+140f271 Task 2.1: extract amount helper
+a04b62f Task 1.2: update git log
+8d537da Task 1.1: address checkstyle issues
+d741d5c Initial commit
